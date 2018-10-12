@@ -1,0 +1,47 @@
+	0	1	2	3	4	5	6	7	8	9	10	11	12	13
+2524	X	X	X											
+2002	X	X	X	X										
+1480	X	X	X											
+9958	X	X	X											
+436	X	X												
+86	X	X	X											
+608	X	X	X	X										
+1130	X	X												
+1652	X	X												
+2174	X	X												
+2696	X	X												
+3218	X	X												
+3740	X	X												
+4262	X	X												
+														
+														
+Comité de révision ELE	0													
+Comité de révision MEC	1													
+Comité de révision LOG	2													
+Comité de révision GPA	3													
+Comité de révision GOL	4													
+Comité de révision TI	5													
+Comité de révision TCH (cursus)	6													
+Comité d'évaluation des pairs	7													
+Conseil d'administration	8													
+Commission des études	9													
+Comité d'évaluation des plans et bilans	10													
+Comité pédagogique	11													
+Comité sur les groupes d'études	12													
+Représentant Syndical	13													
+														
+														
+2524	B2420	5677												
+2002	B2500	5899												
+1480	B3456	6121												
+9958	A2126	6343												
+436	B2420	6565												
+86	B2500	6787												
+608	B3456	7009												
+1130	A2127	7231												
+1652	B2420	7453												
+2174	B2500	7675												
+2696	B3456	7897												
+3218	A2128	8119												
+3740	B2420	8341												
+4262	B2500	8563												
